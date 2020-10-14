@@ -5,7 +5,7 @@ import About from "./components/About";
 function App () {
 
   return (
-    <div>
+    <div className= "grid-container fluid">
     <Navbar/>
     <About/>
     </div>

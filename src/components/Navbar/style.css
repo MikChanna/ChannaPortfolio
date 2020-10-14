@@ -12,7 +12,7 @@ body {
   height: 3.75rem;
   line-height: 3.75rem;
   width: 100%;
-  background-color: rgba(23, 121, 186, 0.1);
+  background-color: #6fa8de;
   transition: all 0.5s ease;
 }
 
@@ -52,7 +52,7 @@ body {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #2196e3;
+  background-color: #6fa8de;
   text-align: center;
   position: fixed;
   top: 0;
@@ -67,7 +67,7 @@ body {
 
 .sticky-shrinknav-wrapper .sticky-shrinknav-header {
   height: 3.75rem;
-  background-color: rgba(23, 121, 186, 0.9);
+  background-color: #6fa8de;
 }
 
 .sticky-shrinknav-wrapper
