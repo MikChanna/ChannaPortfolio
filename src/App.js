@@ -4,7 +4,7 @@ import About from "./components/About";
 import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
-import project from "./project.json";
+
 
 function App () {
 
@@ -13,14 +13,7 @@ function App () {
     <Navbar/>
     <Intro/>
     <About/>
-    {this.state.project.map(item =>(
-      <Portfolio
-      image={this.item.image}
-      detail ={this.item.detail}
-      href = {this.item.href}
-      technology={this.item.technology}/>
-    ))}
-    
+    <Portfolio/>
     <Footer/>
 
     </div>
