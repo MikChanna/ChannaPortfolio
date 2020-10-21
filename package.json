@@ -2,8 +2,8 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-    "npm":"6.14.5",
+  "engines": {
+    "npm": "6.14.5",
     "node": "v14.5.0"
   },
   "dependencies": {
@@ -20,5 +20,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
