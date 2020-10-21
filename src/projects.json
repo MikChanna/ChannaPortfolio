@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Stock",
-      "image": "../Images/stock.jpg",
+      "image": "stock.jpg",
       "detail": "Instock is a stock price application that makes it easy for the user to see opening and closing prices for the day. ",
       "href":"https://mikchanna.github.io/Stock-Price-Alerts/",
       "technology": "HTML, CSS, Javascript"
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Burger App",
-      "image": "../Images/BurgerApp.jpg",
+      "image": "BurgerApp.jpg",
       "detail": "Burger app is a simple burger name creator.  A burger name can be created, updated, and deleted. ",
       "href":"https://enigmatic-ridge-19818.herokuapp.com/",
       "technology": "HTML, CSS, Javascript, Node, SQL"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "name": "Jinji",
-      "image": "../Images/jinji.jpg",
+      "image": "jinji.jpg",
       "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
       "href":"https://stark-waters-09218.herokuapp.com/.",
       "technology": "HTML, CSS, Javascript, Node, SQL"
