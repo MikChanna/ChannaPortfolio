@@ -20,6 +20,7 @@ class Portfolio extends Component {
     name = {project.name}
     image = {project.image}
     href = {project.href}
+    github = {project.github}
     detail = {project.detail}
     technology = {project.technology}
     />
