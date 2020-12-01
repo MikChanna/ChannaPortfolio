@@ -1,22 +1,51 @@
 [
     {
       "id": 1,
+      "name": "LilyPad",
+      "image": "lilypad.jpg",
+      "detail": "Lilypad is an app where parents can add, edit, and share child information with babysitters, caregivers, or family members.  Users may also search child friendly activities and upload photos to a gallery.  ",
+      "href": "https://enigmatic-tor-25137.herokuapp.com/",
+      "github": "https://github.com/MikChanna/Lilypad",
+      "technology": "MongoDB, Express, React, Node, Javascript"
+    },
+    {
+      "id": 2,
       "name": "Stock",
       "image": "stock.jpg",
       "detail": "Instock is a stock price application that makes it easy for the user to see opening and closing prices for the day. ",
       "href":"https://mikchanna.github.io/Stock-Price-Alerts/",
+      "github": "https://github.com/MikChanna/InStock",
       "technology": "HTML, CSS, Javascript"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Burger App",
       "image": "BurgerApp.jpg",
       "detail": "Burger app is a simple burger name creator.  A burger name can be created, updated, and deleted. ",
       "href":"https://enigmatic-ridge-19818.herokuapp.com/",
+      "github": "https://github.com/MikChanna/Burger",
       "technology": "HTML, CSS, Javascript, Node, SQL"
     },
     {
-      "id": 3,
+      "id": 4,
+      "name": "Jinji",
+      "image": "jinji.jpg",
+      "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
+      "href":"https://stark-waters-09218.herokuapp.com/.",
+      "github": "https://github.com/MikChanna/Jinji",
+      "technology": "HTML, CSS, Javascript, Node, SQL"
+    },
+    {
+      "id": 5,
+      "name": "Jinji",
+      "image": "jinji.jpg",
+      "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
+      "href":"https://stark-waters-09218.herokuapp.com/.",
+      "github": "https://github.com/MikChanna/Jinji",
+      "technology": "HTML, CSS, Javascript, Node, SQL"
+    },
+    {
+      "id": 6,
       "name": "Jinji",
       "image": "jinji.jpg",
       "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
