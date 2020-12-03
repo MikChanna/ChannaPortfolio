@@ -37,12 +37,12 @@
     },
     {
       "id": 5,
-      "name": "Jinji",
-      "image": "jinji.jpg",
-      "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
-      "href":"https://stark-waters-09218.herokuapp.com/.",
-      "github": "https://github.com/MikChanna/Jinji",
-      "technology": "HTML, CSS, Javascript, Node, SQL"
+      "name": "Employee Tracker",
+      "image": "employeetracker.jpg",
+      "detail": "A CLI app that will allow employers to add, view, and delete employee information.",
+      "href":"https://drive.google.com/file/d/1huNOUxSmMSEnw7AYPqylh0ZYmNg-TXkf/view",
+      "github": "https://github.com/MikChanna/EmployeeTracker",
+      "technology": "Javascript"
     },
     {
       "id": 6,
