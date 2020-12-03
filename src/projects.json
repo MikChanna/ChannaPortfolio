@@ -46,10 +46,11 @@
     },
     {
       "id": 6,
-      "name": "Jinji",
-      "image": "jinji.jpg",
-      "detail": "Jinji is an application designed for Human Resource professionals and other leaders in management positions who want to foster a more social, inclusive environment for their employees. ",
-      "href":"https://stark-waters-09218.herokuapp.com/.",
-      "technology": "HTML, CSS, Javascript, Node, SQL"
+      "name": "Weather Dashboard",
+      "image": "weatherdashboard.jpg",
+      "detail": "A weather dashboard that returns the week's forecast with UV index.",
+      "href":"https://mikchanna.github.io/Weather-Dashboard/.",
+      "github": "https://github.com/MikChanna/Weather-Dashboard",
+      "technology": "HTML, CSS, Javascript"
     }
 ]
