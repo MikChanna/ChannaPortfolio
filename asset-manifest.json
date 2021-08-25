@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChannaPortfolio/static/css/main.7c76f673.chunk.css",
+    "main.js": "/ChannaPortfolio/static/js/main.4530de4c.chunk.js",
+    "main.js.map": "/ChannaPortfolio/static/js/main.4530de4c.chunk.js.map",
+    "runtime-main.js": "/ChannaPortfolio/static/js/runtime-main.57e2e68d.js",
+    "runtime-main.js.map": "/ChannaPortfolio/static/js/runtime-main.57e2e68d.js.map",
+    "static/js/2.9921e3c0.chunk.js": "/ChannaPortfolio/static/js/2.9921e3c0.chunk.js",
+    "static/js/2.9921e3c0.chunk.js.map": "/ChannaPortfolio/static/js/2.9921e3c0.chunk.js.map",
+    "index.html": "/ChannaPortfolio/index.html",
+    "precache-manifest.8e91c0d334aa29f629ab1caf792feb6d.js": "/ChannaPortfolio/precache-manifest.8e91c0d334aa29f629ab1caf792feb6d.js",
+    "service-worker.js": "/ChannaPortfolio/service-worker.js",
+    "static/css/main.7c76f673.chunk.css.map": "/ChannaPortfolio/static/css/main.7c76f673.chunk.css.map",
+    "static/js/2.9921e3c0.chunk.js.LICENSE.txt": "/ChannaPortfolio/static/js/2.9921e3c0.chunk.js.LICENSE.txt",
+    "static/media/channaResume.pdf": "/ChannaPortfolio/static/media/channaResume.65a39827.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e2e68d.js",
+    "static/js/2.9921e3c0.chunk.js",
+    "static/css/main.7c76f673.chunk.css",
+    "static/js/main.4530de4c.chunk.js"
+  ]
+}
